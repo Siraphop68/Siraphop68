@@ -33,13 +33,6 @@
 
 ---
 
-## 🏆 Achievements & Recognitions
-
-* 🇹🇭 **Top GitHub Developer in Thailand:** Dynamically tracked via [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/thailand.md) (Public Contributions)
-* 🎓 **Academic & Research Impact:** Computer Science & Geoinformatics Lecturer supervising software engineering & cloud infrastructure programs
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
