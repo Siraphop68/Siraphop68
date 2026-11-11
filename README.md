@@ -23,13 +23,17 @@
 
 ## 🚀 About Me
 
-> **Academic Lecturer & Researcher** specializing in **AI, GeoAI, Large Language Models (LLMs), Remote Sensing,** and **Data Science** applied to **Disaster Management**. Passionate about building robust fullstack applications, autonomous AI agent workflows, and cloud-native software architecture.
+ Hi there! 👋 I'm a **Computer Science** student in the **School of Information and Communication Technology (ICT)** at **University of Phayao (UP)**. 
 
-* 🎓 **Role:** Academic Lecturer & PhD Candidate in Computer Science & Applied Geoinformatics
-* 🔬 **Research Focus:** GeoAI, Spatial Analytics, LLM Architectures & Remote Sensing
-* 💼 **Currently Working On:** Developing modern web application architectures & Cloud-native workflows
-* 💬 **Ask Me About:** AI/GeoAI Research, Fullstack Development, GIS, or Local LLM deployments
-* ⚡ **Fun Fact:** I once debugged an issue while on a roller coaster! 🎢
+I'm passionate about building intelligent systems and creating interactive digital experiences, with a strong focus on **Artificial Intelligence** and **Game Development**.
+
+---
+
+### 🛠️ Tech & Interests
+
+* 🤖 **Artificial Intelligence:** Machine Learning, Deep Learning, AI Integration
+* 🎮 **Game Development:** Game Logic, Game Design & Programming
+* 💻 **Software Engineering:** Object-Oriented Programming, Data Structures & Algorithms
 
 ---
 
